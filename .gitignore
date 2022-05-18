@@ -34,7 +34,7 @@ blueprint-templates/
 
 .vscode/
 
-dist/
+#dist/
 
 **/index.android.bundle
 
