@@ -1,4 +1,4 @@
-#import "RCTImageView.h"
+#import <React/RCTImageView.h>
 #import "IFKCacheable.h"
 
 @interface RCTImageView (CacheKey) <IFKCacheable>
